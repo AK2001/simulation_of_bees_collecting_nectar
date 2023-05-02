@@ -9,10 +9,12 @@ More specifically, the simulation includes *3* main entities. *Collector Bees* a
 *On the right* we see a flower patch (unharvested) and a seeker bee (bigger in size) landing on it as it "spots" it.
 ![image](https://user-images.githubusercontent.com/47693513/235554561-b62468ac-e66b-4db0-bdff-78f2eb0bd288.png)
 
-Collector bees flying towards a spotted flower patch for harvesting
+Collector bees flying towards a spotted flower patch for harvesting.
+
 ![image](https://user-images.githubusercontent.com/47693513/235554779-6433a0dd-1807-4df0-b6cf-f938d7302214.png)
 
-Flower patch flowers reproducing their nectar
+Flower patch flowers reproducing their nectar.
+
 ![image](https://user-images.githubusercontent.com/47693513/235554833-8a38a915-0759-4465-913b-357f69eb64e6.png)
 
 ---
