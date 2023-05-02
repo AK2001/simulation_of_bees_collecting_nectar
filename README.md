@@ -5,8 +5,9 @@ More specifically, the simulation includes __*3*__ main entities. __*Collector B
 
 ---
 ### Demonstration:
-**On the left** we see the bee hive and the collector bees (smaller bees) that fly around it waiting for a spot
+**On the left** we see the bee hive and the collector bees (smaller bees) that fly around it waiting for a spot<br/>
 **On the right** we see a flower patch (unharvested) and a seeker bee (bigger in size) landing on it as it "spots" it.
+
 ![image](https://user-images.githubusercontent.com/47693513/235554561-b62468ac-e66b-4db0-bdff-78f2eb0bd288.png)
 
 Collector bees flying towards a spotted flower patch for harvesting.
